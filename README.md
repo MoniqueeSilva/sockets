@@ -1,1 +1,1 @@
-# Aplicação Cliente-Servidor via Socket, segundo período
+# Aplicação Cliente-Servidor via Socket.
